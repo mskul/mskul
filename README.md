@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mskul
+- 👀 I’m interested in database administration 
+- 🌱 I’m currently learning sql and R
